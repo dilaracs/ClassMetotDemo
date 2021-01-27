@@ -1,0 +1,13 @@
+C:\Users\dilar\source\repos\ClassMetotDemo\GameProject\bin\Debug\netcoreapp3.1\GameProject.exe
+C:\Users\dilar\source\repos\ClassMetotDemo\GameProject\bin\Debug\netcoreapp3.1\GameProject.deps.json
+C:\Users\dilar\source\repos\ClassMetotDemo\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.json
+C:\Users\dilar\source\repos\ClassMetotDemo\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.dev.json
+C:\Users\dilar\source\repos\ClassMetotDemo\GameProject\bin\Debug\netcoreapp3.1\GameProject.dll
+C:\Users\dilar\source\repos\ClassMetotDemo\GameProject\bin\Debug\netcoreapp3.1\GameProject.pdb
+C:\Users\dilar\source\repos\ClassMetotDemo\GameProject\obj\Debug\netcoreapp3.1\GameProject.csprojAssemblyReference.cache
+C:\Users\dilar\source\repos\ClassMetotDemo\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfoInputs.cache
+C:\Users\dilar\source\repos\ClassMetotDemo\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfo.cs
+C:\Users\dilar\source\repos\ClassMetotDemo\GameProject\obj\Debug\netcoreapp3.1\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\dilar\source\repos\ClassMetotDemo\GameProject\obj\Debug\netcoreapp3.1\GameProject.dll
+C:\Users\dilar\source\repos\ClassMetotDemo\GameProject\obj\Debug\netcoreapp3.1\GameProject.pdb
+C:\Users\dilar\source\repos\ClassMetotDemo\GameProject\obj\Debug\netcoreapp3.1\GameProject.genruntimeconfig.cache
